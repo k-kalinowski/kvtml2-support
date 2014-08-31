@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>Parley</generator>
+    <title>basic vocabulary German-English</title>
+    <author>Markus Büchele, Norbert Behrendt</author>
+    <license>GPL</license>
+    <date>2014-08-18</date>
+  </information>
+</kvtml>

@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+<wordtypes>
+    <container>
+      <name>Verb</name>
+      <specialwordtype>verb</specialwordtype>
+      <container>
+        <name>Regular</name>
+        <specialwordtype>verb</specialwordtype>
+        <entry id="160">F
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="164">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="190">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="191">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="193">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="282">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="285">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="286">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="311">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="312">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="313">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="315">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="401">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="403">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="405">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="431">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="434">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="520">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="521">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="523">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="525">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="553">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="554">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="555">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="839">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+      </container>
+      <container>
+        <name>Irregular</name>
+        <specialwordtype>verb</specialwordtype>
+        <entry id="161">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="162">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="163">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="165">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="192">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="194">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="195">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="280">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="281">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="283">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="284">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="310">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="314">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="400">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="402">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="404">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="430">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="432">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="433">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="435">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="522">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="550">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+        <entry id="551">
+          <translation id="0"/>
+          <translation id="1"/>
+        </entry>
+      </container>
+    </container>
+    <container>
+      <name>Noun</name>
+      <specialwordtype>noun</specialwordtype>
+      <container>
+        <name>Male</name>
+        <specialwordtype>noun/male</specialwordtype>
+      </container>
+      <container>
+        <name>Female</name>
+        <specialwordtype>noun/female</specialwordtype>
+      </container>
+      <container>
+        <name>Neutral</name>
+        <specialwordtype>noun/neutral</specialwordtype>
+      </container>
+    </container>
+    <container>
+      <name>Name</name>
+    </container>
+    <container>
+      <name>Article</name>
+      <container>
+        <name>Definite</name>
+      </container>
+      <container>
+        <name>Indefinite</name>
+      </container>
+    </container>
+    <container>
+      <name>Adjective</name>
+      <specialwordtype>adjective</specialwordtype>
+      <entry id="1191">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1203">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1213">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1215">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1219">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1221">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1222">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1274">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1280">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1286">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1302">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1305">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1310">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1313">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1317">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1320">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="145">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="149">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="154">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="155">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="167">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="170">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="177">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="184">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="187">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="198">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="202">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="204">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="207">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="211">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="213">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="214">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="215">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="219">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="229">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="230">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="233">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="234">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="241">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="258">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="268">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="269">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="299">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="300">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="301">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="307">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="330">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="369">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="381">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="382">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="397">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="406">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="419">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="425">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="427">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="437">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="475">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="480">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="481">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="486">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="503">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="505">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="516">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="530">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="532">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="549">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="568">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="579">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="587">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="601">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="623">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="625">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="632">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="634">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="636">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="649">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="653">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="659">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="663">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="665">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="666">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="681">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="684">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="687">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="689">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="696">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="711">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="719">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="723">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="724">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="725">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="738">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="741">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="742">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="743">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="746">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="768">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="769">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="777">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="793">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="797">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="819">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="827">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="831">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="835">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="836">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="837">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="920">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="938">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="962">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="967">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="968">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="969">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="995">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="996">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1017">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1024">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1033">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1046">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1054">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1056">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1099">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1101">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1102">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1116">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1126">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1132">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1134">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1136">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1138">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1155">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1163">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1165">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1183">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="35">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="36">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="37">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="47">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="54">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="55">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+    </container>
+    <container>
+      <name>Adverb</name>
+      <specialwordtype>adverb</specialwordtype>
+      <entry id="1198">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1261">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1272">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="227">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="974">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="990">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1023">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+      <entry id="1170">
+        <translation id="0"/>
+        <translation id="1"/>
+      </entry>
+    </container>
+    <container>
+      <name>Pronoun</name>
+      <container>
+        <name>Possessive</name>
+      </container>
+      <container>
+        <name>Personal</name>
+      </container>
+    </container>
+    <container>
+      <name>Phrase</name>
+    </container>
+    <container>
+      <name>Numeral</name>
+      <container>
+        <name>Ordinal</name>
+        <specialwordtype>adjective</specialwordtype>
+      </container>
+      <container>
+        <name>Cardinal</name>
+        <specialwordtype>adjective</specialwordtype>
+      </container>
+    </container>
+    <container>
+      <name>Conjunction</name>
+    </container>
+    <container>
+      <name>Preposition</name>
+    </container>
+    <container>
+      <name>Question</name>
+    </container>
+  </wordtypes>
+</kvtml>
